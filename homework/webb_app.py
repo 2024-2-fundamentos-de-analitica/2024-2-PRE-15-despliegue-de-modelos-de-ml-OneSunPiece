@@ -1,3 +1,5 @@
+"""Web application to deploy the model"""
+
 import pickle
 
 import pandas as pd  # type: ignore
